@@ -1,0 +1,5 @@
+Angel Campos 
+
+I noticed 1 redundancy in the first line of Array it stated the "First_Name" twice and needed it changed to "Middle_Name" for the correct
+
+the second was to add another Middle name to the trenary and make the syntax correct to make the test "Good" so to speak
